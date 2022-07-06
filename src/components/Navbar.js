@@ -36,8 +36,8 @@ export default function Navbar() {
             >
               <VisuallyHidden>LOGO</VisuallyHidden>
             </chakra.a>
-            <chakra.h1 fontSize="xl" fontWeight="medium" ml="2">
-              PORHAXALI
+           <chakra.h1 fontSize="30" fontWeight="medium" ml="2">
+              শ্ৰুতLipi
             </chakra.h1>
           </Flex>
           <HStack display="flex" alignItems="center" spacing={1}>
